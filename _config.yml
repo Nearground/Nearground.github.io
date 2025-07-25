@@ -7,7 +7,6 @@ first_name: Martin
 middle_name:
 last_name: Munguia
 email: munguolm@gmail.com
-email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Martin Munguia's website.
 footer_text: >
