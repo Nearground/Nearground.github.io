@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: master # Branch to update (optional; defaults to master)
-  repo: f5verings/f5verings.github.io
+  repo: nearground/nearground.github.io
   base_url: https://sveltia-cms-auth.munguolm.workers.dev # Path to ext auth provider
 
 publish_mode: editorial_workflow

@@ -19,8 +19,8 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: F5veRings.github.io # the base hostname & protocol for your site
-host: F5veRings.github.io
+url: nearground.github.io # the base hostname & protocol for your site
+host: nearground.github.io
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: false # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -74,7 +74,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 
-github_username: f5verings
+github_username: nearground
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -143,7 +143,7 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: F5veRings/F5veRings.github.io     # <your-github-user-name>/<your-github-repo-name>
+  repo: nearground/nearground.github.io     # <your-github-user-name>/<your-github-repo-name>
   repo_id: R_kgDOKND6aw
   category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOKND6a84CY9No
