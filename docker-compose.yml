@@ -1,7 +1,7 @@
 version: "3"
 # this file uses prebuilt image in dockerhub
 services:
-  f5verings.github.io:
+  nearground.github.io:
     image: amirpourmand/al-folio
     ports:
       - 8080:8080
